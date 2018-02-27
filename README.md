@@ -152,5 +152,5 @@ This application has been tested using [**chai**](https://www.npmjs.com/package/
 
 Thank You.
 
-#### Adewale Jolaade | Andela #TIA
+#### David
  
