@@ -15,9 +15,9 @@
     "seed": "node ./server/seeder/index.js",
     "coverage": "codeclimate-test-reporter < coverage/lcov.info"
   },
-  "email": "jolaade.adewale@andela.com",
+  "email": "davidshostack@gmail.com",
   "contributors": [
-    "jolaade"
+    "david"
   ],
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
